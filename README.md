@@ -1,9 +1,9 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28.09.2025
+## Register Number:25009401
+## Name:MARY AKSHARA S
 ## Problem Title
-SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
+SIH 25010:Smart Crop Advisory System For Small and Marginal Farmers
 ## Problem Description
 A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.
 
@@ -41,28 +41,18 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>A smart crop advisory system for small and marginal farmers leverages AI and data analytics to provide personalized recommendations on crop management, pest control, irrigation, and harvesting. By analyzing local soil, weather, and crop health data, the system enables farmers to make informed decisions, optimize resource use, and improve yields. This technology-driven solution helps bridge the knowledge gap, reduces crop losses, and increases profitability for small and marginal farmers, ultimately contributing to sustainable agriculture and food security.</h3>
+![alt text](image.png)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<h3>The smart crop advisory system for small and marginal farmers employs a technical approach that integrates data collection from satellite imagery, weather stations, and soil sensors, with machine learning algorithms and AI-powered analytics to provide personalized crop management recommendations. The system utilizes IoT devices for real-time monitoring and delivers advisories through user-friendly mobile and web applications, enabling farmers to access critical information and make informed decisions to improve crop yields and reduce losses.</h3> 
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>The smart crop advisory system for small and marginal farmers is highly feasible and viable due to increasing mobile penetration and affordable internet access in rural areas. The system's scalability, cost-effectiveness, and potential for significant yield improvements make it an attractive solution for farmers. By leveraging existing infrastructure and technologies, the system can be easily adopted and adapted to local contexts, ensuring sustainability and long-term viability. Additionally, the system's potential to improve crop management, reduce losses, and increase income for small and marginal farmers aligns with government initiatives and policies supporting agricultural development.</h3>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<h3>The smart crop advisory system for small and marginal farmers can have a transformative impact, providing numerous benefits such as increased crop yields, improved resource utilization, and enhanced decision-making capabilities. By leveraging data-driven insights, farmers can reduce crop losses, optimize irrigation and fertilizer application, and adopt best practices, ultimately leading to increased income and improved livelihoods. Additionally, the system can contribute to sustainable agriculture practices, reduced environmental degradation, and enhanced food security, benefiting not only farmers but also the broader community and ecosystem.</h3>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>www.plantix.net</h3>
+<h4>www.krishyfy.com</h4>
