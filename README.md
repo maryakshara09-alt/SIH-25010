@@ -42,7 +42,8 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 <h3>A smart crop advisory system for small and marginal farmers leverages AI and data analytics to provide personalized recommendations on crop management, pest control, irrigation, and harvesting. By analyzing local soil, weather, and crop health data, the system enables farmers to make informed decisions, optimize resource use, and improve yields. This technology-driven solution helps bridge the knowledge gap, reduces crop losses, and increases profitability for small and marginal farmers, ultimately contributing to sustainable agriculture and food security.</h3>
-![alt text](image.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e713645f-8f2d-43ac-a889-82e0c6f44875" />
+
 
 ## Technical Approach
 <h3>The smart crop advisory system for small and marginal farmers employs a technical approach that integrates data collection from satellite imagery, weather stations, and soil sensors, with machine learning algorithms and AI-powered analytics to provide personalized crop management recommendations. The system utilizes IoT devices for real-time monitoring and delivers advisories through user-friendly mobile and web applications, enabling farmers to access critical information and make informed decisions to improve crop yields and reduce losses.</h3> 
